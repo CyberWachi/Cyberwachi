@@ -1,6 +1,6 @@
 ## Hola a tod@s 👋👋, soy Diego Varela Méndez y este es mi perfil de GitHub
 
-## ¿Qué tal? Bueno ahora ya sabes mi nombre, y también has de saber que en este perfil subiré proyectos de los que la gente pueda inspirarse, acompañados de estudios que voy cursando en caso de que también te interese aprender conmigo. Espero que sea de ayuda o fuente de motivación, mis contactos se encuentran justo aquí debajo. 
+### ¿Qué tal? Bueno ahora ya sabes mi nombre, y también has de saber que en este perfil subiré proyectos de los que la gente pueda inspirarse, acompañados de estudios que voy cursando en caso de que también te interese aprender conmigo. Espero que sea de ayuda o fuente de motivación, mis contactos se encuentran justo aquí debajo. 
 _¡A por ello!_
 
 <!--
