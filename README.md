@@ -29,7 +29,7 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/LinkedIn-Conectar-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://www.instagram.com/iam_diegovarela/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-Seguir-9D4EDD?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+      <img src="https://img.shields.io/badge/Instagram-Ver_perfil-9D4EDD?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
   </p>
 </div>
